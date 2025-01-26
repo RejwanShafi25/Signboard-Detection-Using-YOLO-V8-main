@@ -1,0 +1,8 @@
+train: C:\Users\ASUS\section2-group1\train\images
+val: test/images
+
+nc: 1
+
+# class names
+names:
+  0: 'SignBoard'

@@ -1,0 +1,3 @@
+We trained our model locally for 300 epoch. As the weights file was taking more storage to upload in the google drive . Therefore we uploaded the best weights file, last weights file along with 3 to 4 other weights file  during our model training and later uploaded these files on google drive. You can find all our weights file here.
+
+https://www.playbook.com/s/bd-sketch/jHmzMmw1ZMKqZvPbGsLGAbEY

@@ -2,10 +2,10 @@
  This project involves building a custom object detection model using YOLOv8 as part of my coursework for CSE428 (Image Processing) back in Spring24 Semester. The model is designed to detect signboards in images.
 
 ### Group Members:
-- [Rejwan Shafi](https://www.linkedin.com/in/rejwan-shafi-905ba32a8/)
+- [Rejwan Shafi](https://github.com/RejwanShafi25)
 - [Homairah Ferdousia](https://github.com/HOMAIRAH-FERDOUSIA)
-- Ramisa Sharar Nidhi
-- Anurag Sikder
+- [Ramisa Sharar Nidhi](https://github.com/Ramisa-16)
+- [Anurag Sikder](https://github.com/Anuragsikder)
 
 ## Model Implementation
 For this project, we imported YOLOv8 directly from the Ultralytics library rather than building the model from scratch. This allowed us to focus on dataset preparation, training, and evaluation while leveraging YOLOv8's state-of-the-art object detection capabilities.
